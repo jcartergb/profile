@@ -1,0 +1,16 @@
+---
+title: AI Security
+date: 2025-03-07
+---
+
+Recently, I had the opportunity to work on an AI security assessment. I feel compelled to mention that I still don't believe that LLMs are real AIs, but I'll spare you the details of my normal rant. So, more accurately, I assessed an LLM.
+
+Assessing LLMs is an emerging field in offensive security, so TTPs are still just beginning to develop. This threw me back to my earlier days of my work, before there were established procedures. It was refreshing to approach a problem that was new, because it feels like it truly challenges operators to think in creative ways.
+
+Prompt injection provides the brunt of that challenge. Lists of prompt injections are beginning to be compiled, and while they no doubt make these operations easier, it does mean that we've sped through the part where trial and error occurs by hand. Luckily, with so many LLMs specifically focused on certain data sets and tasks, we may never fully leave that stage. No list, I hope, will ever be comprehensive enough to remove the creative aspect from LLM assessments.
+
+This rung true for me when I worked on convincing an LLM to disclose sensitive customer data. Each of the prompt injections that were kept in our automated scanners could get you part way, but at the end of the day, all of them are pointless if a user can figure out ways to exploit it by hand. That exploitation, performed that way, is what made this such a pleasure.
+
+I do not wish to disparage automated LLM vulnerability scanners. Ultimately, there are going to be more LLMs to test than people available to test them. Automation has always been the path forward in our field, and this is no different. However, the magic will always remain of pushing the boundries by hand.
+
+For those who do want to check out the automated tools, I recommend you check our [Garak](https://github.com/NVIDIA/garak/tree/main/garak) by Nvidia and [PyRIT](https://github.com/Azure/PyRIT) by Azure. I am working on my own tool to make the outputs of these tools more usable and clean up false positives. Stay tuned for updates - I'm hoping to go live soon.
