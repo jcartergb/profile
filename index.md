@@ -11,4 +11,4 @@ Jonathan holds an active Top Secret Clearance and a number of active certificati
 + Security+
 + Network+
 
-Additional information is available in Jonathan's resume - [an up-to-date copy is available here as a zipped file.](https://onedrive.office365.mcas-proxy.com/b939ba47-854a-42cd-8394-4da21ff0bf2a/260d7f45-a4cb-4d4d-8218-ae9d4fc63ec5/Jonathan_Carter_Resume.zip)
+Additional information is available in Jonathan's resume - [an up-to-date copy is available here.](https://onedrive.office365.mcas-proxy.com/b939ba47-854a-42cd-8394-4da21ff0bf2a/260d7f45-a4cb-4d4d-8218-ae9d4fc63ec5/Jonathan_Carter_Resume.zip)
