@@ -19,9 +19,9 @@ Every security architecture begins with clear security policies. These policies 
 2. Access Control Mechanisms
 Access control is one of the most critical aspects of security architecture. It ensures that only authorized individuals can access certain data or systems. This is usually implemented through:
 
-  * Authentication: Verifying the identity of users.
-  * Authorization: Defining what actions users are allowed to perform once they’ve been authenticated.
-  * Accountability: Keeping track of user activity for auditing and monitoring purposes.
+  - Authentication: Verifying the identity of users.
+  - Authorization: Defining what actions users are allowed to perform once they’ve been authenticated.
+  - Accountability: Keeping track of user activity for auditing and monitoring purposes.
 
 3. Perimeter Defense
 The perimeter of your network is where most traditional security measures, like firewalls and intrusion detection systems (IDS), are deployed. These tools act as barriers to protect the network from external threats and unauthorized access.
