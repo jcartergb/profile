@@ -14,9 +14,11 @@ Think of it like the foundation of a building—if the foundation is weak, the s
 A well-designed security architecture encompasses several components. Each one plays a vital role in ensuring the integrity, confidentiality, and availability of an organization’s data.
 
 1. Security Policy
+
 Every security architecture begins with clear security policies. These policies define the security objectives and how risks should be mitigated. A good policy will also align with regulatory standards and ensure that employees understand the security requirements of the organization.
 
 2. Access Control Mechanisms
+
 Access control is one of the most critical aspects of security architecture. It ensures that only authorized individuals can access certain data or systems. This is usually implemented through:
 
   - Authentication: Verifying the identity of users.
@@ -24,18 +26,23 @@ Access control is one of the most critical aspects of security architecture. It 
   - Accountability: Keeping track of user activity for auditing and monitoring purposes.
 
 3. Perimeter Defense
+
 The perimeter of your network is where most traditional security measures, like firewalls and intrusion detection systems (IDS), are deployed. These tools act as barriers to protect the network from external threats and unauthorized access.
 
 4. Data Encryption
+
 Whether data is at rest or in transit, encryption plays a central role in security architecture. Encrypting data ensures that even if unauthorized parties gain access, they won’t be able to read or use it.
 
 5. Intrusion Detection and Prevention Systems (IDPS)
+
 IDPS are designed to detect malicious activity in real-time and either alert security personnel or take automatic corrective action. They can help spot unusual behavior or unauthorized access attempts, providing an extra layer of protection.
 
 6. Network Segmentation
+
 In large organizations, dividing the network into smaller, isolated segments can help reduce the impact of a potential breach. By creating separate zones with different security levels, you can ensure that a breach in one segment doesn't automatically lead to a breach in another.
 
 7. Redundancy and Failover Systems
+
 Security architecture isn’t just about stopping attacks—it’s also about ensuring that services remain available even when things go wrong. Redundancy and failover systems are designed to keep your infrastructure operational even during a security incident or other failure.
 
 ### The Role of Security Architecture in Risk Management
